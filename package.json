@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zunix18/js-arrayMoreMethods.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zunix18/js-arrayMoreMethods/issues"
+  },
+  "homepage": "https://github.com/Zunix18/js-arrayMoreMethods#readme"
 }
